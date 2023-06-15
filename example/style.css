@@ -11,8 +11,11 @@
 }
 
 .up {
-    background-color: blue;
-    top: 40px;
-    right: 50px;
-    color: blue;
-}
+    background-color: blue; 
+    color: black; 
+  }
+  
+  .up:hover {
+    background-color: #4CAF50;
+    color: black;
+  }
