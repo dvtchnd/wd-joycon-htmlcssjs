@@ -13,9 +13,18 @@
 .up {
     background-color: blue; 
     color: black; 
+    position: relative;
+    left: 145px;
   }
   
   .up:hover {
     background-color: #4CAF50;
     color: black;
+  }
+
+  .down .left .right {
+    background-color: blue; 
+    color: black; 
+    position: relative;
+    bottom: 32px;
   }
